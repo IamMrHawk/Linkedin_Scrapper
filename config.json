@@ -1,0 +1,14 @@
+{
+  "search_query" : "Python Developer",
+  "username" : "",
+  "password" : "",
+  "chrome_driver_path" : "",
+  "num_profiles" : 5,
+  "out_data" : {
+    "name" : "True",
+    "headline" : "True",
+    "location" : "True",
+    "current_company" : "True",
+    "summary" : "True"
+  }
+}
